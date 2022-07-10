@@ -1,1 +1,1 @@
-This is a STORE file
+This is a STORE file and I just collaborated
